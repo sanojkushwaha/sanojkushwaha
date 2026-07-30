@@ -1,34 +1,4 @@
+<img width="1983" height="793" alt="banner png" src="https://github.com/user-attachments/assets/89e29050-313c-43ea-96de-3a753f584102" />
 # Hi I'm Sanoj Kushwaha !👋
 
 ## Aspiring Full-Stack Java Developer
-
-💻 Java Backend Developer
-
-🌱 Currently Learning
-- Spring Security
-- React.js
-- Docker
-- Microservices
-
-## Tech Stack
-
-- ☕ Java
-- 🍃 Spring Boot
-- 🗄️ MySQL
-- ⚛️ React.js
-- 🔥 Hibernate
-- 📦 Maven
-- 🐙 Git
-
-## Featured Projects
-
-🏦 Banking API
-
-🛒 Online Electronic Store
-
-## Contact
-
-📧 kushawahasanoj123@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/sanoj-kushwaha
