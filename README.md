@@ -1,5 +1,10 @@
-<img width="1983" height="793" alt="banner1" src="https://github.com/user-attachments/assets/f8380ea5-5fdf-452d-8503-68b63af504aa" />
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/ff74bc8f-9f40-43fd-a042-d50971076d78" />
+<h1 align="center">Hi 👋 I'm Sanoj Kushwaha</h1>
 
-   ## Hi, I'm Sanoj Kushwaha !👋 
+<h3 align="center">
+Aspiring Full-Stack Java Developer
+</h3>
 
-  #Aspiring Full-Stack Java Developer
+<p align="center">
+Java • Spring Boot • Hibernate • JPA • MySQL • React.js • REST APIs
+</p>
