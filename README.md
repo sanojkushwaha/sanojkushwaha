@@ -26,10 +26,6 @@
 
 🛒 Online Electronic Store
 
-📚 Library Management System
-
-🎓 Student Management System
-
 ## Contact
 
 📧 kushawahasanoj123@gmail.com
