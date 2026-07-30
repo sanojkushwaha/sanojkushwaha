@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi I'm Sanoj Kushwaha !👋
 
-<!--
-**sanojkushwaha/sanojkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Full-Stack Java Developer
 
-Here are some ideas to get you started:
+💻 Java Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Spring Security
+- React.js
+- Docker
+- Microservices
+
+## Tech Stack
+
+- ☕ Java
+- 🍃 Spring Boot
+- 🗄️ MySQL
+- ⚛️ React.js
+- 🔥 Hibernate
+- 📦 Maven
+- 🐙 Git
+
+## Featured Projects
+
+🏦 Banking API
+
+🛒 Online Electronic Store
+
+📚 Library Management System
+
+🎓 Student Management System
+
+## Contact
+
+📧 kushawahasanoj123@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sanoj-kushwaha
